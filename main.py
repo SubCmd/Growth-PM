@@ -11,4 +11,3 @@ rcParams['font.family'] = 'AppleGothic' # mac version
 rcParams['axes.unicode_minus'] = False
 '''
 
-# 실습 3: Loop 단계별 Drop-off 분석 (실무 직결)
