@@ -1,5 +1,7 @@
 # matplotlib 한국어 깨짐 해결
 from bdb import effective
+
+from pandas.core.apply import reconstruct_func
 import matplotlib.pyplot as plt
 from matplotlib import rcParams
 
